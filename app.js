@@ -1,3 +1,3 @@
 function changeHeading() {
-    document.getElementById("heading").innerText = "Ayush Button";
+    document.getElementById("heading").innerText = "Sachin Button";
 }
